@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://i.imgur.com/40IlxH3.png" width="100%" alt="Johan Castillon Ruiz - Full Stack Developer" />
 </div>
@@ -73,38 +72,14 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux,bash,vite,webpack" title="Git, VS Code, Postman, Figma, Linux, Bash, Vite, Webpack" />
 </div>
 
-## 📊 GitHub Analytics
+
+## 📈 Activity Graph
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Johan409IA&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan409IA&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=Johan409IA&theme=nightowl&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan409IA&theme=nightowl&radius=16&height=300&area=true&hide_border=true" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan409IA&theme=nightowl&radius=16&height=300&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 📈 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan409IA&layout=compact&theme=nightowl&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</div>
-
-## 🤝Contactate conmigo
+## 🤝Mis redes
 
 <div align="center">
   <a href="https://www.linkedin.com/in/johan-castillon-ruiz-311979305" target="_blank">
@@ -121,14 +96,8 @@
   </a>
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Johan409IA/Johan409IA/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
