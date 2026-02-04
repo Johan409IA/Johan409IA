@@ -1,27 +1,134 @@
-# 💫 About Me:
-## 🚀 Explorando el Universo del Desarrollo Web<br><br>¡Hola, mundo! 👋 Soy un joven desarrollador en ciernes desde Perú, actualmente navegando con pasión por el emocionante mundo de la programación. <br><br>### 🌱 Mis Inicios<br>Hace poco tiempo decidí embarcarme en este viaje increíble del desarrollo web, y cada día me encuentro más enamorado de la tecnología. Actualmente, estoy dominando los fundamentos con HTML y CSS, construyendo mis primeras estructuras y dando vida a diseños creativos.<br><br>### 🎯 Mi Visión<br>Mi objetivo es claro: convertirme en un desarrollador front-end de primer nivel. Sueño con crear interfaces web impresionantes, intuitivas y que cuenten historias a través del diseño.<br><br>### 🛠️ Habilidades en Desarrollo<br>- 💻 HTML5<br>- 🎨 CSS3<br>- 🌐 Aprendizaje continuo<br><br>### 🌈 Más Allá del Código<br>Creo firmemente que la programación es más que escribir líneas de código: es resolver problemas, crear soluciones innovadoras y nunca dejar de aprender.<br><br>**¡Bienvenidos a mi viaje de transformación digital!** 💫<br>
 
+<div align="center">
+  <img src="https://i.imgur.com/40IlxH3.png" width="100%" alt="Johan Castillon Ruiz - Full Stack Developer" />
+</div>
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JotaScript) 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Johan409IA">
+    <img src="https://komarev.com/ghpvc/?username=Johan409IA&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Johan409IA?tab=followers">
+    <img src="https://img.shields.io/github/followers/Johan409IA?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Johan409IA&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Johan409IA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johan409IA&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Innovador+Tecnológico;Resolver+Problemas" alt="Typing Effect" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Johan409IA&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+## 👋 Acerca de mi
+¡Hola! Soy **Johan Castillon Ruiz**, desarrollador Full Stack apasionado por la tecnología y la innovación. 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+🚀 **Mi misión**: Construir soluciones tecnológicas que impacten positivamente, combinando buenas prácticas, código limpio y las últimas tendencias del desarrollo web.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Johan409IA&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+🎯 **Actualmente**:
+- Enfocado en convertirme en un **Desarrollador Full Stack competitivo y actualizado**
+- Explorando **arquitecturas modernas** y **mejores prácticas** de desarrollo
+- Construyendo proyectos que reflejen mi **crecimiento y compromiso** con la tecnología
+
+💡 **Intereses técnicos**:
+- Desarrollo web moderno (Frontend & Backend)
+- Optimización de rendimiento y UX/UI
+- Arquitectura de software escalable
+- Tecnologías emergentes y frameworks modernos
+- Trabajo colaborativo y metodologías ágiles
+
+🧠 **Mentalidad**:
+- Curioso y autodidacta por naturaleza
+- Orientado a objetivos y mejora continua
+- Abierto a feedback y aprendizaje colaborativo
+- Apasionado por resolver problemas con código creativo
+
+⚡ **Dato extra**: Siempre explorando nuevas herramientas que me ayuden a crear soluciones más eficientes y elegantes.
+
+## 🎯 Tech Stack & Expertise
+
+### **🟢 Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs" title="JavaScript, TypeScript, Python, Java, PHP, C++, C#" />
+</div>
+
+### **🔵 Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,next,tailwind,html,css" title="React, Vue.js, Angular, Next.js, Tailwind CSS, HTML5, CSS3" />
+</div>
+
+### **🔴 Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,flask,fastapi" title="Node.js, Express.js, Django, Spring Boot, Flask, FastAPI" />
+</div>
+
+### **🟡 Bases de datos**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" title="MySQL, PostgreSQL, MongoDB, Redis, supabase" />
+</div>
+
+### **🟣 DevOps & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,github,jenkins" title="Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions, Jenkins" />
+</div>
+
+### **⚪ Herramientas & Plataformas**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux,bash,vite,webpack" title="Git, VS Code, Postman, Figma, Linux, Bash, Vite, Webpack" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Johan409IA&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan409IA&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-trophy.vercel.app/?username=Johan409IA&theme=nightowl&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan409IA&theme=nightowl&radius=16&height=300&area=true&hide_border=true" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan409IA&layout=compact&theme=nightowl&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</div>
+
+## 🤝Contactate conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/johan-castillon-ruiz-311979305" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@JotaScript-201" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:johan2a409@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Johan409IA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Johan409IA/Johan409IA/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Johan409IA&icon=10&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true" />
+</div>
